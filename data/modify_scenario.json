@@ -1,0 +1,4271 @@
+{
+  "mst_scenario_ship_war_jp": [
+    {
+      "ship_type": 240,
+      "state": 183,
+      "belong_to": 3,
+      "ship_id": 22,
+      "hp": 22,
+      "gas": 0,
+      "formation": 0,
+      "name": "白鳳",
+      "cruise": 0,
+      "fuel": 0,
+      "mst_scenario_plane_on_ship": [
+        {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }
+      ],
+      "carring_size": 0,
+      "unknown_d": null
+    }, {
+      "ship_type": 240,
+      "state": 183,
+      "belong_to": 3,
+      "ship_id": 22,
+      "hp": 22,
+      "gas": 0,
+      "formation": 0,
+      "name": "蒼鳳",
+      "cruise": 0,
+      "fuel": 0,
+      "mst_scenario_plane_on_ship": [
+        {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }
+      ],
+      "carring_size": 0,
+      "unknown_d": null
+    }, {
+      "ship_type": 240,
+      "state": 183,
+      "belong_to": 3,
+      "ship_id": 22,
+      "hp": 22,
+      "gas": 0,
+      "formation": 0,
+      "name": "飛鳳",
+      "cruise": 0,
+      "fuel": 0,
+      "mst_scenario_plane_on_ship": [
+        {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }
+      ],
+      "carring_size": 0,
+      "unknown_d": null
+    }, {
+      "ship_type": 240,
+      "state": 183,
+      "belong_to": 3,
+      "ship_id": 22,
+      "hp": 22,
+      "gas": 0,
+      "formation": 0,
+      "name": "翔鳳",
+      "cruise": 0,
+      "fuel": 0,
+      "mst_scenario_plane_on_ship": [
+        {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }
+      ],
+      "carring_size": 0,
+      "unknown_d": null
+    }, {
+      "ship_type": 240,
+      "state": 183,
+      "belong_to": 3,
+      "ship_id": 22,
+      "hp": 22,
+      "gas": 0,
+      "formation": 0,
+      "name": "隼鳳",
+      "cruise": 0,
+      "fuel": 0,
+      "mst_scenario_plane_on_ship": [
+        {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }
+      ],
+      "carring_size": 0,
+      "unknown_d": null
+    }, {
+      "ship_type": 240,
+      "state": 183,
+      "belong_to": 3,
+      "ship_id": 22,
+      "hp": 22,
+      "gas": 0,
+      "formation": 0,
+      "name": "紅鳳",
+      "cruise": 0,
+      "fuel": 0,
+      "mst_scenario_plane_on_ship": [
+        {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }
+      ],
+      "carring_size": 0,
+      "unknown_d": null
+    }, {
+      "ship_type": 240,
+      "state": 183,
+      "belong_to": 3,
+      "ship_id": 22,
+      "hp": 22,
+      "gas": 0,
+      "formation": 0,
+      "name": "雲鳳",
+      "cruise": 0,
+      "fuel": 0,
+      "mst_scenario_plane_on_ship": [
+        {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }
+      ],
+      "carring_size": 0,
+      "unknown_d": null
+    }, {
+      "ship_type": 240,
+      "state": 183,
+      "belong_to": 2,
+      "ship_id": 21,
+      "hp": 299,
+      "gas": 0,
+      "formation": 0,
+      "name": "紀伊",
+      "cruise": 0,
+      "fuel": 0,
+      "mst_scenario_plane_on_ship": [
+        {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }
+      ],
+      "carring_size": 0,
+      "unknown_d": null
+    }, {
+      "ship_type": 240,
+      "state": 183,
+      "belong_to": 2,
+      "ship_id": 21,
+      "hp": 299,
+      "gas": 0,
+      "formation": 0,
+      "name": "相模",
+      "cruise": 0,
+      "fuel": 0,
+      "mst_scenario_plane_on_ship": [
+        {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }
+      ],
+      "carring_size": 0,
+      "unknown_d": null
+    }, {
+      "ship_type": 240,
+      "state": 183,
+      "belong_to": 2,
+      "ship_id": 21,
+      "hp": 299,
+      "gas": 0,
+      "formation": 0,
+      "name": "和泉",
+      "cruise": 0,
+      "fuel": 0,
+      "mst_scenario_plane_on_ship": [
+        {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }
+      ],
+      "carring_size": 0,
+      "unknown_d": null
+    }, {
+      "ship_type": 240,
+      "state": 183,
+      "belong_to": 2,
+      "ship_id": 21,
+      "hp": 299,
+      "gas": 0,
+      "formation": 0,
+      "name": "対馬",
+      "cruise": 0,
+      "fuel": 0,
+      "mst_scenario_plane_on_ship": [
+        {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }
+      ],
+      "carring_size": 0,
+      "unknown_d": null
+    }, {
+      "ship_type": 240,
+      "state": 183,
+      "belong_to": 2,
+      "ship_id": 21,
+      "hp": 299,
+      "gas": 0,
+      "formation": 0,
+      "name": "出雲",
+      "cruise": 0,
+      "fuel": 0,
+      "mst_scenario_plane_on_ship": [
+        {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }
+      ],
+      "carring_size": 0,
+      "unknown_d": null
+    }, {
+      "ship_type": 240,
+      "state": 183,
+      "belong_to": 2,
+      "ship_id": 21,
+      "hp": 299,
+      "gas": 0,
+      "formation": 0,
+      "name": "壱岐",
+      "cruise": 0,
+      "fuel": 0,
+      "mst_scenario_plane_on_ship": [
+        {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }, {
+          "plane_type": 255,
+          "plane_count": 0,
+          "repair_par_100": 0,
+          "repair_par_81": 0,
+          "repair_par_62": 0,
+          "repair_par_50": 0,
+          "repair_par_37": 0,
+          "repair_par_25": 0
+        }
+      ],
+      "carring_size": 0,
+      "unknown_d": null
+    }
+  ],
+  "mst_scenario_line_ship": [
+    {
+      "base_id": 141,
+      "line_ship_id": [11, 15, 20, 22, 644, 645, 646, 647],
+      "line_ship_progress": [98, 186, 618, 291, 291, 291, 291, 291],
+      "line_ship_create_type": [1, 1, 1, 1, 1, 1, 1, 1],
+      "new_ship": 0
+    }, {
+      "base_id": 128,
+      "line_ship_id": [65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535],
+      "line_ship_progress": [0, 0, 0, 0, 0, 0, 0, 0],
+      "line_ship_create_type": [0, 0, 0, 0, 0, 0, 0, 0],
+      "new_ship": 0
+    }, {
+      "base_id": 28,
+      "line_ship_id": [14, 21, 34, 648, 649, 650, 651, 652],
+      "line_ship_progress": [206, 618, 636, 291, 291, 291, 618, 618],
+      "line_ship_create_type": [1, 1, 1, 1, 1, 1, 1, 1],
+      "new_ship": 0
+    }, {
+      "base_id": 81,
+      "line_ship_id": [35, 653, 654, 655, 656, 65535, 65535, 65535],
+      "line_ship_progress": [559, 618, 618, 618, 618, 0, 0, 0],
+      "line_ship_create_type": [1, 1, 1, 1, 1, 0, 0, 0],
+      "new_ship": 0
+    }, {
+      "base_id": 50,
+      "line_ship_id": [65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535],
+      "line_ship_progress": [0, 0, 0, 0, 0, 0, 0, 0],
+      "line_ship_create_type": [0, 0, 0, 0, 0, 0, 0, 0],
+      "new_ship": 1
+    }, {
+      "base_id": 79,
+      "line_ship_id": [65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535],
+      "line_ship_progress": [0, 0, 0, 0, 0, 0, 0, 0],
+      "line_ship_create_type": [0, 0, 0, 0, 0, 0, 0, 0],
+      "new_ship": 1
+    }, {
+      "base_id": 27,
+      "line_ship_id": [65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535],
+      "line_ship_progress": [0, 0, 0, 0, 0, 0, 0, 0],
+      "line_ship_create_type": [0, 0, 0, 0, 0, 0, 0, 0],
+      "new_ship": 1
+    }, {
+      "base_id": 198,
+      "line_ship_id": [130, 131, 132, 133, 134, 135, 65535, 65535],
+      "line_ship_progress": [212, 134, 138, 136, 129, 114, 0, 0],
+      "line_ship_create_type": [1, 1, 1, 1, 1, 1, 0, 0],
+      "new_ship": 0
+    }, {
+      "base_id": 198,
+      "line_ship_id": [136, 137, 209, 210, 211, 212, 220, 221],
+      "line_ship_progress": [120, 34, 57, 9, 47, 9, 20, 15],
+      "line_ship_create_type": [1, 1, 1, 1, 1, 1, 1, 1],
+      "new_ship": 0
+    }, {
+      "base_id": 198,
+      "line_ship_id": [222, 223, 65535, 65535, 65535, 65535, 65535, 65535],
+      "line_ship_progress": [5, 1, 0, 0, 0, 0, 0, 0],
+      "line_ship_create_type": [1, 1, 0, 0, 0, 0, 0, 0],
+      "new_ship": 0
+    }, {
+      "base_id": 198,
+      "line_ship_id": [65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535],
+      "line_ship_progress": [0, 0, 0, 0, 0, 0, 0, 0],
+      "line_ship_create_type": [0, 0, 0, 0, 0, 0, 0, 0],
+      "new_ship": 0
+    }, {
+      "base_id": 198,
+      "line_ship_id": [65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535],
+      "line_ship_progress": [0, 0, 0, 0, 0, 0, 0, 0],
+      "line_ship_create_type": [0, 0, 0, 0, 0, 0, 0, 0],
+      "new_ship": 0
+    }, {
+      "base_id": 198,
+      "line_ship_id": [6, 2, 8, 65535, 65535, 65535, 65535, 65535],
+      "line_ship_progress": [82, 82, 82, 0, 0, 0, 0, 0],
+      "line_ship_create_type": [1, 1, 1, 0, 0, 0, 0, 0],
+      "new_ship": 0
+    }, {
+      "base_id": 198,
+      "line_ship_id": [65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535],
+      "line_ship_progress": [0, 0, 0, 0, 0, 0, 0, 0],
+      "line_ship_create_type": [0, 0, 0, 0, 0, 0, 0, 0],
+      "new_ship": 0
+    }, {
+      "base_id": 198,
+      "line_ship_id": [65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535],
+      "line_ship_progress": [0, 0, 0, 0, 0, 0, 0, 0],
+      "line_ship_create_type": [0, 0, 0, 0, 0, 0, 0, 0],
+      "new_ship": 0
+    }, {
+      "base_id": 199,
+      "line_ship_id": [107, 109, 65535, 65535, 65535, 65535, 65535, 65535],
+      "line_ship_progress": [120, 86, 0, 0, 0, 0, 0, 0],
+      "line_ship_create_type": [1, 1, 0, 0, 0, 0, 0, 0],
+      "new_ship": 0
+    }, {
+      "base_id": 199,
+      "line_ship_id": [65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535],
+      "line_ship_progress": [0, 0, 0, 0, 0, 0, 0, 0],
+      "line_ship_create_type": [0, 0, 0, 0, 0, 0, 0, 0],
+      "new_ship": 0
+    }, {
+      "base_id": 199,
+      "line_ship_id": [65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535],
+      "line_ship_progress": [0, 0, 0, 0, 0, 0, 0, 0],
+      "line_ship_create_type": [0, 0, 0, 0, 0, 0, 0, 0],
+      "new_ship": 0
+    }, {
+      "base_id": 199,
+      "line_ship_id": [65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535],
+      "line_ship_progress": [0, 0, 0, 0, 0, 0, 0, 0],
+      "line_ship_create_type": [0, 0, 0, 0, 0, 0, 0, 0],
+      "new_ship": 0
+    }, {
+      "base_id": 200,
+      "line_ship_id": [65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535],
+      "line_ship_progress": [0, 0, 0, 0, 0, 0, 0, 0],
+      "line_ship_create_type": [0, 0, 0, 0, 0, 0, 0, 0],
+      "new_ship": 0
+    }
+  ],
+  "mst_scenario_fleet_ship_jp": [
+    {
+      "unknown_a1": 1,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 20905,
+      "y": 6360,
+      "base": 255,
+      "underway": 255,
+      "name": "南雲艦隊",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 1,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 12630,
+      "y": 4713,
+      "base": 28,
+      "underway": 0,
+      "name": "近藤艦隊",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 1,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 12630,
+      "y": 4713,
+      "base": 28,
+      "underway": 0,
+      "name": "小澤艦隊",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 1,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 12630,
+      "y": 4713,
+      "base": 28,
+      "underway": 0,
+      "name": "高橋艦隊",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 1,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 12630,
+      "y": 4713,
+      "base": 28,
+      "underway": 0,
+      "name": "第七駆逐隊",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "order": 0,
+      "unknown_a3": 0,
+      "unknown_a4": 0,
+      "unknown_b": 65535,
+      "unknown_c": null,
+      "x": 65535,
+      "y": 65535,
+      "base": 255,
+      "underway": 255,
+      "name": "",
+      "unknown": 0,
+      "minimam_cruise": 0,
+      "fuel_all_ship": 0,
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    }
+  ],
+  "mst_scenario_fleet_sub_jp": [
+    {
+      "unknown_a1": 1,
+      "unknown_a2": 0,
+      "unknown_a3": 0,
+      "x": 15181,
+      "y": 9139,
+      "base": 79,
+      "underway": 0,
+      "name": "第一潜水艦隊",
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 1,
+      "unknown_a2": 0,
+      "unknown_a3": 0,
+      "x": 15181,
+      "y": 9139,
+      "base": 79,
+      "underway": 0,
+      "name": "第二潜水艦隊",
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 1,
+      "unknown_a2": 0,
+      "unknown_a3": 0,
+      "x": 15181,
+      "y": 9139,
+      "base": 79,
+      "underway": 0,
+      "name": "第三潜水艦隊",
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 1,
+      "unknown_a2": 0,
+      "unknown_a3": 0,
+      "x": 15181,
+      "y": 9139,
+      "base": 79,
+      "underway": 0,
+      "name": "第四潜水艦隊",
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 1,
+      "unknown_a2": 0,
+      "unknown_a3": 0,
+      "x": 15181,
+      "y": 9139,
+      "base": 79,
+      "underway": 0,
+      "name": "第五潜水艦隊",
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "unknown_a2": 0,
+      "unknown_a3": 255,
+      "x": 65535,
+      "y": 65535,
+      "base": 0,
+      "underway": 0,
+      "name": "",
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "unknown_a2": 0,
+      "unknown_a3": 255,
+      "x": 65535,
+      "y": 65535,
+      "base": 0,
+      "underway": 0,
+      "name": "",
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "unknown_a2": 0,
+      "unknown_a3": 255,
+      "x": 65535,
+      "y": 65535,
+      "base": 0,
+      "underway": 0,
+      "name": "",
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "unknown_a2": 0,
+      "unknown_a3": 255,
+      "x": 65535,
+      "y": 65535,
+      "base": 0,
+      "underway": 0,
+      "name": "",
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "unknown_a2": 0,
+      "unknown_a3": 255,
+      "x": 65535,
+      "y": 65535,
+      "base": 0,
+      "underway": 0,
+      "name": "",
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "unknown_a2": 0,
+      "unknown_a3": 255,
+      "x": 65535,
+      "y": 65535,
+      "base": 0,
+      "underway": 0,
+      "name": "",
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "unknown_a2": 0,
+      "unknown_a3": 255,
+      "x": 65535,
+      "y": 65535,
+      "base": 0,
+      "underway": 0,
+      "name": "",
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "unknown_a2": 0,
+      "unknown_a3": 255,
+      "x": 65535,
+      "y": 65535,
+      "base": 0,
+      "underway": 0,
+      "name": "",
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "unknown_a2": 0,
+      "unknown_a3": 255,
+      "x": 65535,
+      "y": 65535,
+      "base": 0,
+      "underway": 0,
+      "name": "",
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    },
+    {
+      "unknown_a1": 0,
+      "unknown_a2": 0,
+      "unknown_a3": 255,
+      "x": 65535,
+      "y": 65535,
+      "base": 0,
+      "underway": 0,
+      "name": "",
+      "dst_x": 65535,
+      "dst_y": 65535,
+      "unknown_e": null
+    }
+  ],
+  "scenario_tech_plane": [
+    {
+      "name": "零戦32型",
+      "id": 2,
+      "need_dev_value": 117,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        255
+      ],
+      "corporation": 0,
+      "unknown": null
+    },
+    {
+      "name": "雷電21型",
+      "id": 9,
+      "need_dev_value": 636,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        9,
+        11,
+        7,
+        14,
+        255,
+        255
+      ],
+      "corporation": 0,
+      "unknown": null
+    },
+    {
+      "name": "1式陸攻22型",
+      "id": 30,
+      "need_dev_value": 573,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        30,
+        32,
+        35,
+        255,
+        255,
+        255
+      ],
+      "corporation": 0,
+      "unknown": null
+    },
+    {
+      "name": "天山",
+      "id": 23,
+      "need_dev_value": 360,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        23,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 1,
+      "unknown": null
+    },
+    {
+      "name": "月光21型",
+      "id": 15,
+      "need_dev_value": 603,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        15,
+        16,
+        17,
+        255,
+        255,
+        255
+      ],
+      "corporation": 1,
+      "unknown": null
+    },
+    {
+      "name": "連山",
+      "id": 33,
+      "need_dev_value": 733,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        33,
+        34,
+        37,
+        255,
+        255,
+        255
+      ],
+      "corporation": 1,
+      "unknown": null
+    },
+    {
+      "name": "彩雲",
+      "id": 38,
+      "need_dev_value": 512,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        38,
+        39,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 1,
+      "unknown": null
+    },
+    {
+      "name": "電光",
+      "id": 18,
+      "need_dev_value": 1457,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        18,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 2,
+      "unknown": null
+    },
+    {
+      "name": "99艦爆22型",
+      "id": 21,
+      "need_dev_value": 27,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        21,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 2,
+      "unknown": null
+    },
+    {
+      "name": "流星改",
+      "id": 24,
+      "need_dev_value": 521,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        24,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 2,
+      "unknown": null
+    },
+    {
+      "name": "瑞雲",
+      "id": 42,
+      "need_dev_value": 180,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        42,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 2,
+      "unknown": null
+    },
+    {
+      "name": "晴嵐",
+      "id": 44,
+      "need_dev_value": 690,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        44,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 2,
+      "unknown": null
+    },
+    {
+      "name": "紫電",
+      "id": 8,
+      "need_dev_value": 603,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        8,
+        10,
+        13,
+        255,
+        255,
+        255
+      ],
+      "corporation": 3,
+      "unknown": null
+    },
+    {
+      "name": "2式大艇",
+      "id": 46,
+      "need_dev_value": 540,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        46,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 3,
+      "unknown": null
+    },
+    {
+      "name": "震電",
+      "id": 12,
+      "need_dev_value": 834,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        12,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 4,
+      "unknown": null
+    },
+    {
+      "name": "東海",
+      "id": 40,
+      "need_dev_value": 503,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        40,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 4,
+      "unknown": null
+    },
+    {
+      "name": "彗星11型",
+      "id": 22,
+      "need_dev_value": 177,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        22,
+        25,
+        26,
+        255,
+        255,
+        255
+      ],
+      "corporation": 8,
+      "unknown": null
+    },
+    {
+      "name": "銀河",
+      "id": 31,
+      "need_dev_value": 618,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        31,
+        36,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 8,
+      "unknown": null
+    },
+    {
+      "name": "開発終了",
+      "id": 255,
+      "need_dev_value": 0,
+      "dev_value": 0,
+      "fix_value": 0,
+      "next_dev": [
+        255,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 255,
+      "unknown": null
+    },
+    {
+      "name": "ｷ83",
+      "id": 64,
+      "need_dev_value": 738,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        64,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 0,
+      "unknown": null
+    },
+    {
+      "name": "飛龍",
+      "id": 74,
+      "need_dev_value": 762,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        74,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 0,
+      "unknown": null
+    },
+    {
+      "name": "百式司偵2型",
+      "id": 78,
+      "need_dev_value": 177,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        78,
+        79,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 0,
+      "unknown": null
+    },
+    {
+      "name": "鍾馗",
+      "id": 50,
+      "need_dev_value": 27,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        50,
+        52,
+        57,
+        59,
+        255,
+        255
+      ],
+      "corporation": 1,
+      "unknown": null
+    },
+    {
+      "name": "飛燕",
+      "id": 51,
+      "need_dev_value": 240,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        51,
+        53,
+        54,
+        55,
+        56,
+        255
+      ],
+      "corporation": 5,
+      "unknown": null
+    },
+    {
+      "name": "屠龍",
+      "id": 60,
+      "need_dev_value": 27,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        60,
+        61,
+        62,
+        63,
+        255,
+        255
+      ],
+      "corporation": 5,
+      "unknown": null
+    },
+    {
+      "name": "ｷ66",
+      "id": 69,
+      "need_dev_value": 480,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        69,
+        70,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 5,
+      "unknown": null
+    },
+    {
+      "name": "ｷ91",
+      "id": 76,
+      "need_dev_value": 1023,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        76,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 5,
+      "unknown": null
+    },
+    {
+      "name": "ｷ94-2",
+      "id": 58,
+      "need_dev_value": 1455,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        58,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 6,
+      "unknown": null
+    },
+    {
+      "name": "ｷ74",
+      "id": 75,
+      "need_dev_value": 620,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        75,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 6,
+      "unknown": null
+    },
+    {
+      "name": "ｷ93",
+      "id": 71,
+      "need_dev_value": 1449,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        71,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 9,
+      "unknown": null
+    },
+    {
+      "name": "開発終了",
+      "id": 255,
+      "need_dev_value": 0,
+      "dev_value": 0,
+      "fix_value": 0,
+      "next_dev": [
+        255,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 255,
+      "unknown": null
+    },
+    {
+      "name": "F6F",
+      "id": 2,
+      "need_dev_value": 420,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        2,
+        4,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 1,
+      "unknown": null
+    },
+    {
+      "name": "F7F",
+      "id": 9,
+      "need_dev_value": 860,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        9,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 1,
+      "unknown": null
+    },
+    {
+      "name": "TBF-1",
+      "id": 12,
+      "need_dev_value": 360,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        12,
+        14,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 1,
+      "unknown": null
+    },
+    {
+      "name": "F4U-4",
+      "id": 3,
+      "need_dev_value": 860,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        3,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 2,
+      "unknown": null
+    },
+    {
+      "name": "F4U-1",
+      "id": 7,
+      "need_dev_value": 200,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        7,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 2,
+      "unknown": null
+    },
+    {
+      "name": "FR",
+      "id": 5,
+      "need_dev_value": 1340,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        5,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 3,
+      "unknown": null
+    },
+    {
+      "name": "FD",
+      "id": 6,
+      "need_dev_value": 1470,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        6,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 4,
+      "unknown": null
+    },
+    {
+      "name": "F2G",
+      "id": 8,
+      "need_dev_value": 1000,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        8,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 5,
+      "unknown": null
+    },
+    {
+      "name": "AD",
+      "id": 15,
+      "need_dev_value": 1350,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        15,
+        16,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 6,
+      "unknown": null
+    },
+    {
+      "name": "TB2D",
+      "id": 16,
+      "need_dev_value": 1370,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        16,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 6,
+      "unknown": null
+    },
+    {
+      "name": "SB2C",
+      "id": 13,
+      "need_dev_value": 770,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        13,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 7,
+      "unknown": null
+    },
+    {
+      "name": "SC",
+      "id": 23,
+      "need_dev_value": 1100,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        23,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 7,
+      "unknown": null
+    },
+    {
+      "name": "PV-1",
+      "id": 17,
+      "need_dev_value": 310,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        17,
+        18,
+        19,
+        255,
+        255,
+        255
+      ],
+      "corporation": 8,
+      "unknown": null
+    },
+    {
+      "name": "PB4Y-1",
+      "id": 20,
+      "need_dev_value": 390,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        20,
+        21,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 9,
+      "unknown": null
+    },
+    {
+      "name": "PBM",
+      "id": 25,
+      "need_dev_value": 120,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        25,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 10,
+      "unknown": null
+    },
+    {
+      "name": "開発終了",
+      "id": 255,
+      "need_dev_value": 0,
+      "dev_value": 0,
+      "fix_value": 0,
+      "next_dev": [
+        255,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 255,
+      "unknown": null
+    },
+    {
+      "name": "P-47C",
+      "id": 30,
+      "need_dev_value": 360,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        30,
+        31,
+        33,
+        255,
+        255,
+        255
+      ],
+      "corporation": 12,
+      "unknown": null
+    },
+    {
+      "name": "P-51D",
+      "id": 32,
+      "need_dev_value": 1020,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        32,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 13,
+      "unknown": null
+    },
+    {
+      "name": "P-82",
+      "id": 39,
+      "need_dev_value": 1440,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        39,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 13,
+      "unknown": null
+    },
+    {
+      "name": "B-25J",
+      "id": 44,
+      "need_dev_value": 780,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        44,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 13,
+      "unknown": null
+    },
+    {
+      "name": "P-59",
+      "id": 34,
+      "need_dev_value": 1380,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        34,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 11,
+      "unknown": null
+    },
+    {
+      "name": "P-80",
+      "id": 35,
+      "need_dev_value": 1410,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        35,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 8,
+      "unknown": null
+    },
+    {
+      "name": "P-38G",
+      "id": 36,
+      "need_dev_value": 40,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        36,
+        37,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 8,
+      "unknown": null
+    },
+    {
+      "name": "P-61",
+      "id": 38,
+      "need_dev_value": 940,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        38,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 14,
+      "unknown": null
+    },
+    {
+      "name": "A-20",
+      "id": 43,
+      "need_dev_value": 420,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        43,
+        45,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 6,
+      "unknown": null
+    },
+    {
+      "name": "B-26",
+      "id": 42,
+      "need_dev_value": 150,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        42,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 10,
+      "unknown": null
+    },
+    {
+      "name": "B-17Ｇ",
+      "id": 47,
+      "need_dev_value": 120,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        47,
+        49,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 15,
+      "unknown": null
+    },
+    {
+      "name": "B-24",
+      "id": 48,
+      "need_dev_value": 390,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        48,
+        50,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 9,
+      "unknown": null
+    },
+    {
+      "name": "開発終了",
+      "id": 255,
+      "need_dev_value": 0,
+      "dev_value": 0,
+      "fix_value": 0,
+      "next_dev": [
+        255,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 255,
+      "unknown": null
+    },
+    {
+      "name": "ｼｰﾌｧｲｱ3",
+      "id": 53,
+      "need_dev_value": 240,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        53,
+        55,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 17,
+      "unknown": null
+    },
+    {
+      "name": "ｽﾋﾟｯﾄﾌｧｲｱ5",
+      "id": 58,
+      "need_dev_value": 60,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        58,
+        60,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 17,
+      "unknown": null
+    },
+    {
+      "name": "ﾌｧｲｱﾌﾗｲ",
+      "id": 54,
+      "need_dev_value": 900,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        54,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 16,
+      "unknown": null
+    },
+    {
+      "name": "ﾊﾞﾗｸｰﾀﾞ",
+      "id": 64,
+      "need_dev_value": 870,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        64,
+        66,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 16,
+      "unknown": null
+    },
+    {
+      "name": "ｼｰﾌｭｱﾘ",
+      "id": 56,
+      "need_dev_value": 1745,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        56,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 18,
+      "unknown": null
+    },
+    {
+      "name": "ﾃﾝﾍﾟｽﾄ2",
+      "id": 59,
+      "need_dev_value": 1050,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        59,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 18,
+      "unknown": null
+    },
+    {
+      "name": "ﾎﾞｰﾌｧｲﾀｰ6",
+      "id": 61,
+      "need_dev_value": 30,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        61,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 19,
+      "unknown": null
+    },
+    {
+      "name": "ﾎｰﾈｯﾄ",
+      "id": 62,
+      "need_dev_value": 1130,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        62,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 21,
+      "unknown": null
+    },
+    {
+      "name": "ﾓｽｷｰﾄ",
+      "id": 68,
+      "need_dev_value": 240,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        68,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 21,
+      "unknown": null
+    },
+    {
+      "name": "ﾌｧｲｱﾌﾞﾗﾝﾄﾞ",
+      "id": 65,
+      "need_dev_value": 1460,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        65,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 20,
+      "unknown": null
+    },
+    {
+      "name": "ﾘﾝｶｰﾝ",
+      "id": 70,
+      "need_dev_value": 1000,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        70,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 22,
+      "unknown": null
+    },
+    {
+      "name": "Yak-1",
+      "id": 75,
+      "need_dev_value": 60,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        75,
+        76,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 28,
+      "unknown": null
+    },
+    {
+      "name": "La-7",
+      "id": 77,
+      "need_dev_value": 960,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        77,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 29,
+      "unknown": null
+    },
+    {
+      "name": "Il-2",
+      "id": 79,
+      "need_dev_value": 210,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        79,
+        82,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 24,
+      "unknown": null
+    },
+    {
+      "name": "Pe-2",
+      "id": 80,
+      "need_dev_value": 240,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        80,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 30,
+      "unknown": null
+    },
+    {
+      "name": "Tu-2",
+      "id": 81,
+      "need_dev_value": 600,
+      "dev_value": 0,
+      "fix_value": 3,
+      "next_dev": [
+        81,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "corporation": 25,
+      "unknown": null
+    }
+  ]
+}
